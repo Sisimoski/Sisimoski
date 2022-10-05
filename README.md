@@ -1,6 +1,8 @@
 # Cześć 👋, nazywam się Marcin
 ### 👨‍💻 O mnie
-Jestem początkującym front-end developerem, który ukończył studia magisterskie na kierunku informatycznym. Chcę rozwijać się we front-end'owych technologiach tj. JavaScript oraz React.js. Dobrze znam HTML i CSS. <br> Mam duży zapał do pracy, pasję i chętnie interesuję się nowymi technologiami.
+Jestem początkującym front-end developerem, który ukończył studia magisterskie na kierunku informatycznym. Chcę rozwijać się we front-end'owych technologiach tj. JavaScript oraz React.js. Dobrze znam HTML i CSS. Interesuję się **programowaniem** aplikacji webowych, desktopowych i mobilnych oraz **designem** UI/UX aplikacji.
+
+Mam duży zapał do pracy, pasję i chętnie interesuję się nowymi technologiami.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sisimoski&icon=7&color=1)](https://visitcount.itsvg.in)
@@ -15,7 +17,7 @@ Jestem początkującym front-end developerem, który ukończył studia magisters
 
 ---
 
-## 💻 Umiejętności:
+## 💻 Tech Stack:
 #### Dev:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
