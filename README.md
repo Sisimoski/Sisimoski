@@ -7,14 +7,14 @@ Jestem początkującym front-end developerem, który ukończył studia magisters
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sisimoski&label=Profile%20views&color=0e75b6&style=flat" alt="sisimoski" /> </p>-->
 
-- 🌱 Uczę się obecnie: **JavaScript, React**
+<!-- - 🌱 Uczę się obecnie: **JavaScript, React** -->
 
 - 📫 Napisz do mnie: **marcinchmurowski@outlook.com**
 
 - 📄 Moje CV: [CV](https://www.icloud.com/iclouddrive/09cooyhMrh1YpGlOB0yINSl1g#CV)
 
 ---
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sisimoski&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+<-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sisimoski&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 ## 💻 Umiejętności:
 #### Dev:
