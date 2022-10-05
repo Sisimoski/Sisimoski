@@ -14,7 +14,6 @@ Jestem początkującym front-end developerem, który ukończył studia magisters
 - 📄 Moje CV: [CV](https://www.icloud.com/iclouddrive/09cooyhMrh1YpGlOB0yINSl1g#CV)
 
 ---
-<-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sisimoski&theme=nord&hide_border=true&include_all_commits=false&count_private=true&layout=compact) -->
 
 ## 💻 Umiejętności:
 #### Dev:
