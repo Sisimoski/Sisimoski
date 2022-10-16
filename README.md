@@ -1,6 +1,6 @@
 # Cześć 👋, nazywam się Marcin
 ### 👨‍💻 O mnie
-Jestem początkującym developerem, który ukończył studia magisterskie na kierunku informatycznym. Chcę rozwijać się we front-end'owych technologiach tj. JavaScript oraz React.js. Dobrze znam HTML i CSS. Interesuję się **programowaniem** aplikacji webowych, desktopowych i mobilnych oraz **designem** UI/UX aplikacji.
+Jestem początkującym developerem, który ukończył studia magisterskie na kierunku informatycznym. Chcę rozwijać się we front-end'owych technologiach tj. JavaScript oraz React.js. Dobrze znam HTML i CSS oraz platformę .NET. Interesuję się **programowaniem** aplikacji webowych, desktopowych i mobilnych oraz **designem** UI/UX aplikacji.
 
 Mam duży zapał do pracy, pasję i chętnie interesuję się nowymi technologiami.
 
