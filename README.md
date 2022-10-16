@@ -6,11 +6,8 @@ Mam duży zapał do pracy, pasję i chętnie interesuję się nowymi technologia
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sisimoski&icon=7&color=1)](https://visitcount.itsvg.in)
-
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=sisimoski&label=Profile%20views&color=0e75b6&style=flat" alt="sisimoski" /> </p>-->
-
 <!-- - 🌱 Uczę się obecnie: **JavaScript, React** -->
-
 - 📫 Napisz do mnie: **marcinchmurowski@outlook.com**
 
 - 📄 Moje CV: [CV](https://www.icloud.com/iclouddrive/09cooyhMrh1YpGlOB0yINSl1g#CV)
