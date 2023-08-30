@@ -1,8 +1,7 @@
 # Cześć 👋, nazywam się Marcin
 ### 👨‍💻 O mnie
-Jestem początkującym developerem, który ukończył studia magisterskie na kierunku informatycznym. Chcę rozwijać się we front-end'owych technologiach tj. JavaScript oraz React.js. Dobrze znam HTML i CSS oraz platformę .NET. Interesuję się **programowaniem** aplikacji webowych, desktopowych i mobilnych oraz **designem** UI/UX aplikacji.
-
-Mam duży zapał do pracy, pasję i chętnie interesuję się nowymi technologiami.
+Jestem początkującym developerem, który ukończył studia magisterskie na kierunku informatycznym. Bardzo lubię skupiać się na aspektach wizualnych końcowych produktów, stąd cechuje mnie wrażliwość artystyczna i chęć rozwoju we **front-end**'owych technologiach tj. JavaScript oraz React.js, a także w zakresie **UI/UX**.
+Interesuję się **programowaniem** aplikacji webowych, desktopowych i mobilnych oraz **projektowaniem** nowoczesnych interfejsów użytkownika w aplikacjach.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sisimoski&icon=7&color=1)](https://visitcount.itsvg.in)
