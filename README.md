@@ -1,6 +1,6 @@
 # Cześć 👋, nazywam się Marcin
 ### 👨‍💻 O mnie
-Jestem początkującym developerem, który ukończył studia magisterskie na kierunku informatycznym. Bardzo lubię skupiać się na aspektach wizualnych końcowych produktów, stąd cechuje mnie wrażliwość artystyczna i chęć rozwoju we **front-end**'owych technologiach tj. JavaScript oraz React.js, a także w zakresie **UI/UX**.
+Jestem aspirującym, początkującym developerem, interesujący się nowoczesnymi technologiami. Bardzo lubię skupiać się na aspektach wizualnych końcowych produktów, stąd cechuje mnie wrażliwość artystyczna i chęć rozwoju we **front-end**'owych technologiach tj. JavaScript oraz React.js, a także w zakresie **UI/UX**.
 Interesuję się **programowaniem** aplikacji webowych, desktopowych i mobilnych oraz **projektowaniem** nowoczesnych interfejsów użytkownika w aplikacjach.
 
 ---
@@ -12,7 +12,7 @@ Interesuję się **programowaniem** aplikacji webowych, desktopowych i mobilnych
 
 - 📫 Napisz do mnie: **marcinchmurowski@outlook.com**
 
-- 📄 Moje CV: [CV](https://www.icloud.com/iclouddrive/0d7alFCjgfnHIAu-OdRwe5z1g#CV)
+- 📄 Moje CV: [CV](https://www.icloud.com/iclouddrive/078aZbEqOWB5xw4deOZ-KSOdQ#CV)
 
 ---
 
