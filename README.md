@@ -12,7 +12,7 @@ Interesuję się **programowaniem** aplikacji webowych, desktopowych i mobilnych
 
 - 📫 Napisz do mnie: **marcinchmurowski@outlook.com**
 
-- 📄 Moje CV: [CV](https://www.icloud.com/iclouddrive/078aZbEqOWB5xw4deOZ-KSOdQ#CV)
+- 📄 Moje CV: [CV](https://www.icloud.com/iclouddrive/071g0uq4r5O5XFycnKjuLKC8w#CV)
 
 ---
 
